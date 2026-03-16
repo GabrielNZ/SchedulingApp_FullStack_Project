@@ -11,7 +11,7 @@
 
 ### Sobre o projeto
 
-Antes de começar a minha história universitária, desajava aplicar em um projeto tudo que havia aprendi nesse 1 ano de estudo. **Aqui está!**
+Antes de começar a minha história universitária, desejava aplicar em um projeto tudo que havia aprendido nesse 1 ano de estudo. **Aqui está!**
 Após 3 meses de programação diária, apresento meu primeiro projeto **Full Stack**.
 
 Consiste em uma aplicação na qual através de um dashboard, clientes e prestadores podem organizar o agendamento de serviços, isto é:
